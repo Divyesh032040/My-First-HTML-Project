@@ -1,0 +1,55 @@
+body    
+    { background-color: #d1ecec; }
+    
+
+hr 
+    { background-color: #EAF6F6;
+        border-style: none;
+        border-top-style: dotted;
+        border-color: grey;
+        height: 0px;
+        width: 5%;
+        border-width: 5px;
+        opacity: 40%;           }
+
+h1 
+{
+    color: rgb(29, 118, 108); 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+                                 }
+h3
+{   color: rgb(29, 118, 108);  
+    font-family: cursive;
+    
+    
+
+  
+  
+
+   
+
+                                 }
+h2
+{color: rgb(29, 118, 108);  
+font-family: cursive;         }         
+ 
+p {
+ font-family: cursive;
+}
+
+ul {
+
+     margin-left: auto;
+     margin-right: auto;
+
+}
+
+
+
+
+
+
+
+
+       
